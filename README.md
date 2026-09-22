@@ -16,7 +16,7 @@
 
 <p align="center">
   I combine a practical background in <strong>Multiplatform Application Development (DAM)</strong>,<br>
-  a <strong>Computer Engineering degree</strong> in progress (expected January 2027), and professional experience<br>
+  a <strong>Computer Engineering degree</strong> in progress , and professional experience<br>
   building software and automation around real operational problems.
 </p>
 
