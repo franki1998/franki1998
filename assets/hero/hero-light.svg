@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Francisco Gutiérrez Beuster</title><desc id="desc">Software Engineering, AI and Automation, Technical Solutions</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset="1" stop-color="#eef2ff"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/><circle cx="1080" cy="40" r="180" fill="#2563eb" opacity=".06"/><circle cx="1080" cy="40" r="110" fill="#7c3aed" opacity=".08"/>
+  <rect x="72" y="68" width="72" height="6" rx="3" fill="url(#accent)"/><text x="72" y="142" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" fill="#0f172a">Francisco Gutiérrez Beuster</text>
+  <text x="72" y="198" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#334155">Software Engineering · AI &amp; Automation · Technical Solutions</text>
+  <text x="72" y="260" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#475569">From real operational problems to designed, built and maintainable products.</text>
+  <g transform="translate(72 294)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600"><rect width="148" height="34" rx="17" fill="#dbeafe"/><text x="18" y="22" fill="#1d4ed8">SEVILLE, SPAIN</text><rect x="164" width="224" height="34" rx="17" fill="#ede9fe"/><text x="182" y="22" fill="#6d28d9">REMOTE · INTERNATIONAL</text></g>
+</svg>
