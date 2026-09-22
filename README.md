@@ -64,7 +64,12 @@
       <code>Rust</code> <code>Tauri</code> <code>React</code> <code>SQLite</code> <code>MCP</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/franki1998/HuchaApp"><img src="https://raw.githubusercontent.com/franki1998/HuchaApp/main/assets/screenshots/resumen-hucha.png" alt="Hucha mobile application budget summary" width="100%"></a>
+      <p align="center">
+        <a href="https://github.com/franki1998/HuchaApp"><img src="https://raw.githubusercontent.com/franki1998/HuchaApp/main/assets/screenshots/huchas.png" alt="Hucha mobile application overview" width="22%"></a>
+        <a href="https://github.com/franki1998/HuchaApp"><img src="https://raw.githubusercontent.com/franki1998/HuchaApp/main/assets/screenshots/resumen-hucha.png" alt="Hucha budget summary" width="22%"></a>
+        <a href="https://github.com/franki1998/HuchaApp"><img src="https://raw.githubusercontent.com/franki1998/HuchaApp/main/assets/screenshots/nuevo-gasto.png" alt="Hucha new expense flow" width="22%"></a>
+        <a href="https://github.com/franki1998/HuchaApp"><img src="https://raw.githubusercontent.com/franki1998/HuchaApp/main/assets/screenshots/actividad.png" alt="Hucha activity screen" width="22%"></a>
+      </p>
       <h3><a href="https://github.com/franki1998/HuchaApp">Hucha ↗</a></h3>
       Mobile product for planning shared budgets and expenses around committed, used and remaining amounts—designed for a real everyday problem.
       <br><br>
@@ -133,4 +138,3 @@
   Seville, Spain &nbsp;·&nbsp;
   Remote & international
 </p>
-
