@@ -56,7 +56,7 @@
 <table>
   <tr>
     <td valign="top">
-      <a href="https://github.com/franki1998/MedulaSport"><img src="assets/projects/medulasport.svg" alt="MedulaSport timing and race-management platform" width="100%"></a>
+      <a href="https://github.com/franki1998/MedulaSport"><img src="assets/projects/medulasport.svg?v=2" alt="MedulaSport timing and race-management platform" width="100%"></a>
       <p><strong>PROFESSIONAL WORK · FREELANCE</strong></p>
       <h3><a href="https://github.com/franki1998/MedulaSport">MedulaSport ↗</a></h3>
       <p><strong>Timing & Race Management Platform</strong></p>
