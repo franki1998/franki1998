@@ -16,7 +16,7 @@
 
 <p align="center">
   I combine a practical background in <strong>Multiplatform Application Development (DAM)</strong>,<br>
-  a <strong>Computer Engineering degree</strong> in progress , and professional experience<br>
+  a <strong>Computer Engineering degree</strong> in progress (expected January 2027), and professional software experience<br>
   building software and automation around real operational problems.
 </p>
 
@@ -51,8 +51,33 @@
 
 <br>
 
-<h2 align="center">Selected Projects</h2>
-<p align="center">Production-minded projects spanning systems, mobile product, 3D web and data engineering.</p>
+<h2 align="center">Professional Work</h2>
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/franki1998/MedulaSport"><img src="assets/projects/medulasport.svg" alt="MedulaSport timing and race-management platform" width="100%"></a>
+      <p><strong>PROFESSIONAL WORK · FREELANCE</strong></p>
+      <h3><a href="https://github.com/franki1998/MedulaSport">MedulaSport ↗</a></h3>
+      <p><strong>Timing & Race Management Platform</strong></p>
+      <p>Production software for motorsport events connecting public timing and results, race-control tools, FastAPI services, PostgreSQL and an Android/PDA field application. Built for variable connectivity with local pending records, later synchronisation and Bluetooth thermal printing.</p>
+      <p><strong>Hill Climb / Subida → Rally</strong> · From direct start/finish timing to stages, runs, itinerary, checkpoints, co-drivers and accumulated classifications.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>JavaScript</code> <code>Kotlin</code> <code>Jetpack Compose</code></p>
+      <p><strong>My role:</strong> Requirements · System design · Backend · Web · Android/PDA · Data modelling</p>
+      <p>
+        <strong><a href="https://github.com/franki1998/MedulaSport">View Case Study →</a></strong>
+        &nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="https://tiempos.medulasport.com/">Live Platform ↗</a>
+      </p>
+      <sub>Public case study · proprietary source code not published</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">Selected Personal Projects</h2>
+<p align="center">Technical projects spanning systems, mobile product, 3D web and data engineering.</p>
 
 <table>
   <tr>
@@ -90,24 +115,6 @@
       Educational quantitative engineering platform for market-data processing, regime analysis and backtesting—not financial advice or a profitability claim.
       <br><br>
       <code>Python</code> <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">Professional Work</h2>
-
-<table>
-  <tr>
-    <td valign="top">
-      <p><strong>PRODUCTION SOFTWARE · MOTORSPORT OPERATIONS</strong></p>
-      <h3>MedulaSport — Timing & Race Management Platform</h3>
-      Professional software for participant management, starts and finishes, race sessions, penalties, live results and administration. My work also covers timing integrity, VPS deployment and maintenance, and adapting the system to different competition formats.
-      <br><br>
-      <code>FastAPI</code> <code>PostgreSQL</code> <code>JavaScript</code> <code>Linux</code> <code>Apache</code> <code>REST APIs</code>
-      <br><br>
-      <strong>Private commercial project · Source code not publicly available.</strong>
     </td>
   </tr>
 </table>
