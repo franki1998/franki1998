@@ -55,21 +55,59 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <a href="https://github.com/franki1998/MedulaSport"><img src="assets/projects/medulasport.svg?v=2" alt="MedulaSport timing and race-management platform" width="100%"></a>
-      <p><strong>PROFESSIONAL WORK · FREELANCE</strong></p>
-      <h3><a href="https://github.com/franki1998/MedulaSport">MedulaSport ↗</a></h3>
-      <p><strong>Timing & Race Management Platform</strong></p>
-      <p>Production software for motorsport events connecting public timing and results, race-control tools, FastAPI services, PostgreSQL and an Android/PDA field application. Built for variable connectivity with local pending records, later synchronisation and Bluetooth thermal printing.</p>
-      <p><strong>Hill Climb / Subida → Rally</strong> · From direct start/finish timing to stages, runs, itinerary, checkpoints, co-drivers and accumulated classifications.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>JavaScript</code> <code>Kotlin</code> <code>Jetpack Compose</code></p>
-      <p><strong>My role:</strong> Requirements · System design · Backend · Web · Android/PDA · Data modelling</p>
+    <td width="100%" valign="top">
+      <p align="center">
+        <a href="https://github.com/franki1998/MedulaSport">
+          <img src="assets/projects/medulasport.svg?v=3" alt="MedulaSport timing and race-management platform" width="96%">
+        </a>
+      </p>
+
+      <p align="center">
+        <sub><strong>PROFESSIONAL WORK · FREELANCE</strong></sub>
+      </p>
+
+      <h3 align="center">
+        <a href="https://github.com/franki1998/MedulaSport">MedulaSport ↗</a>
+      </h3>
+
+      <p align="center">
+        <strong>Timing & Race Management Platform</strong>
+      </p>
+
       <p>
+        Production software for motorsport events connecting public timing and results, race-control tools,
+        FastAPI services, PostgreSQL and an Android/PDA field application. Built for variable connectivity
+        with local pending records, later synchronisation and Bluetooth thermal printing.
+      </p>
+
+      <p>
+        <strong>Hill Climb / Subida → Rally</strong> · From direct start/finish timing to stages, runs,
+        itinerary, checkpoints, co-drivers and accumulated classifications.
+      </p>
+
+      <p align="center">
+        <code>Python</code>
+        <code>FastAPI</code>
+        <code>PostgreSQL</code>
+        <code>JavaScript</code>
+        <code>Kotlin</code>
+        <code>Jetpack Compose</code>
+      </p>
+
+      <p align="center">
+        <strong>My role:</strong>
+        Requirements · System design · Backend · Web · Android/PDA · Data modelling
+      </p>
+
+      <p align="center">
         <strong><a href="https://github.com/franki1998/MedulaSport">View Case Study →</a></strong>
         &nbsp;&nbsp;·&nbsp;&nbsp;
         <a href="https://tiempos.medulasport.com/">Live Platform ↗</a>
       </p>
-      <sub>Public case study · proprietary source code not published</sub>
+
+      <p align="center">
+        <sub>Public case study · proprietary source code not published</sub>
+      </p>
     </td>
   </tr>
 </table>
